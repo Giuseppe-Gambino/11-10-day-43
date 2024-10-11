@@ -1,0 +1,17 @@
+.custom-background {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  background-position: top right;
+  transition: 250ms;
+}
+
+.custom-background:hover {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  background-position: top right;
+  transition: 250ms;
+  transform: skew(1.5deg);
+  scale: 1.05;
+}

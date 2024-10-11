@@ -1,0 +1,56 @@
+[
+  {
+    "brand": "Fiat",
+    "brandLogo": "fiat-icon.svg",
+    "model": "Fiat Grande Panda New è un'auto elettrica con motori da 70 a 120 CV, autonomia fino a 400 km",
+    "modelImage": "https://cdn.motor1.com/images/mgl/nA6kYk/s3/fiat-grande-panda-2024.jpg",
+    "year": 2025,
+    "price": 15900,
+    "available": false
+  },
+  {
+    "brand": "Fiat",
+    "brandLogo": "fiat-icon.svg",
+    "model": "Fiat Tipo con nuovo motore Hybrid​ 1.5 T4 da 130 CV, abbinato a un motore elettrico da 48 V",
+    "modelImage": "https://www.tanea.gr/wp-content/uploads/2023/03/NEA-AGORAS-FIAT-TIPO.jpg",
+    "year": 2022,
+    "price": 26900,
+    "available": true
+  },
+  {
+    "brand": "Ford",
+    "brandLogo": "ford-icon.png",
+    "model": "Ford Mustang GTD 800cv V8 Racing",
+    "modelImage": "https://www.clubalfa.it/automobili/photos/2023/08/Ford-Mustang-GTD.jpg",
+    "year": 2025,
+    "price": 293000,
+    "available": false
+  },
+  {
+    "brand": "Ford",
+    "brandLogo": "ford-icon.png",
+    "model": "Ford Focus 1.0 EcoBoost Hybrid 125CV SW ST Line",
+    "modelImage": "https://www.autoscout24.it/cms-content-assets/35gCEkFPutJ9p2sH6oQBtJ-835e8af4d7cab2d0706cedb7f5771829-ford-focus-side-1100.jpg",
+    "year": 2014,
+    "price": 9700,
+    "available": true
+  },
+  {
+    "brand": "Audi",
+    "brandLogo": "audi-icon.svg",
+    "model": "Audi A8 sfruta una tecnologia ibrida mild-hybrid MHEV, Diesel 3.0 TDI da 286 CV",
+    "modelImage": "https://www.infomotori.com/content/uploads/2017/09/Audi-A8-live-Francoforte-2017-2-728x415.jpg",
+    "year": 2017,
+    "price": 90000,
+    "available": true
+  },
+  {
+    "brand": "Audi",
+    "brandLogo": "audi-icon.svg",
+    "model": "Audi Q3 SUV 1.5 turbobenzina 4 cilindri con modulo ibrido a 48 V capace di 150 CV e 250 Nm di coppia, trazione anteriore e con cambio manuale a 6 marce",
+    "modelImage": "https://rentedrive.it/wp-content/uploads/2020/03/Le-novit%C3%A0-Audi-Q3-nel-2020.jpg",
+    "year": 2020,
+    "price": 41700,
+    "available": false
+  }
+]
